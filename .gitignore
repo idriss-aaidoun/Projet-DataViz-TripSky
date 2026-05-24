@@ -1,0 +1,32 @@
+# --- CHANTIERS JUPYTER / PYTHON ---
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+env/
+venv/
+
+# --- CHANTIERS LATEX (Pour ton rapport) ---
+*.aux
+*.log
+*.toc
+*.synctex.gz
+*.out
+*.fdb_latexmk
+*.fls
+*.blg
+*.bbl
+*.ilm
+*.lof
+*.lot
+*.pdfsync
+
+# --- FICHIERS SYSTEME LOCAUX ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
